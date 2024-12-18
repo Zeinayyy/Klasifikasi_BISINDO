@@ -9,5 +9,5 @@
 ## Contact
 -Email : zeinnurzaman343@gmail.com
 -Facebook : Zein Nurzaman
--Instagram : @jajang_goldstein
+-Instagram : @mzeinnurzaman
 -LinkedIn : Zein Nurzaman
