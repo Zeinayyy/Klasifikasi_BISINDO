@@ -2,7 +2,7 @@
 
  Model Untuk Klasifikasi Gestur Bahasa Isyarat Indonesia (BISINDO) Secara Langsung
 
-Sample Detection
+
 ![Sample_Detection](photo_2024-06-26_13-25-09.jpg)
 
 
